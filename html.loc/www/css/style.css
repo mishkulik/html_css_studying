@@ -1,0 +1,106 @@
+body {
+    font:14px Tahoma;
+    color:#333333;
+    padding:15px;
+    margin:0 auto;
+    width:1000px;
+    background-color:#ffffff;
+    border:1px solid #cc0000;
+}
+
+p {
+    text-indent:30px;
+}
+
+#header {
+    text-align:center;
+    text-transform:capitalize;
+    padding:40px 20px;
+    margin:20px auto 10px auto;
+    width:550px; 
+    background-color:#cc0000;   
+    color:#ffffff;
+    border:4px solid #faa21a;
+}
+
+.new2 {
+    font-style:italic;
+}
+
+.new3 {
+    font-weight:bold;
+    text-decoration:line-through;
+}
+
+a {
+    text-decoration:none;
+    border-bottom:1px dotted #C32017;
+}
+
+.new4 {
+    text-align: justify;
+}
+
+ul {
+    list-style:inside url(../images/arrow.png);
+}
+
+.new6 {
+    color:#97ad34; /* Зеленый 10 баллов */
+}
+
+#liSuper {
+    color:#56aef3; /* Синий 100 баллов */
+}
+
+#mylist li.new6 {
+    color:#400000; /* Шоколадный 111 баллов */
+}
+
+table, td, th {
+    border:1px solid #cccccc;
+    text-align:center;
+}
+
+table {
+    width:700px;
+    border-collapse:collapse;
+    margin:25px auto;
+}
+
+td, th {
+    height:50px;
+    padding:0px;
+    vertical-align:middle;
+    background-color:#ffffff;
+}
+
+th {
+    background-image:url(../images/tablebg.jpg);
+    background-repeat:repeat;
+}
+
+tr.blue td {
+    background-color:#ceefff;
+}
+
+#myImg {
+    float:right;
+    border:none;
+    margin:20px 0 20px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
